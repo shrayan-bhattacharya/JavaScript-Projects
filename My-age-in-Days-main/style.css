@@ -1,0 +1,20 @@
+.container-1{
+    background-color: rgb(188, 243, 243);
+    border:5px solid rgb(11, 121, 121);
+    border-radius: 13px;
+    width:75%;
+    margin: 0 auto;
+    text-align: center;
+}
+.flex-box-container-1{
+    border:3px solid rgb(11, 121, 121);
+    padding: 10px;
+    display: flex;
+    background-color: cyan;
+    justify-content: space-evenly;
+}
+.flex-box-container-1 div{
+    padding: 10px;
+    background-color: rgb(201, 245, 245);
+   
+}
